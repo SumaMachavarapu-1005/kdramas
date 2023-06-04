@@ -1,0 +1,39 @@
+.sum{
+    margin:70px;
+    padding: 20px;
+   border-style:double dotted;
+   background-color:lavenderblush;
+}
+#picture{
+   
+    justify-content: space-evenly;
+    display:flex;
+
+}
+img{
+    border: 5px solid maroon;
+}
+#pic{
+    
+    justify-content: space-evenly;
+    display:flex; 
+}
+.s{
+    margin:70px;
+    padding:20px;
+    border-style:inset;
+    background-color: rgb(250, 241, 215);
+}
+#i{
+    border: 5px solid seagreen;
+}
+.u{
+    margin:70px;
+    padding:20px;
+    border-style:solid ;border-color:"black";
+    background-color: rgb(197, 220, 192);  
+}
+.l{
+    
+    background:radial-gradient(rgb(219, 75, 163))
+}
